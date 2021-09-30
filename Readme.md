@@ -1,6 +1,7 @@
 # Chicken Wrap
 
-![Chicken Wrap](/images/ChickenWrap.png)
+![Chicken Wrap](https://tastesbetterfromscratch.com/wp-content/uploads/2020/03/Buffalo-Chicken-Wrap-3.jpg)
+
 ## BENODIGHEDEN
 
 > - oil 1 tbsp
