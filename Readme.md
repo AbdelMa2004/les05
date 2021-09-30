@@ -1,5 +1,6 @@
 # Chicken Wrap
 
+![Chicken Wrap](/images/ChickenWrap.png)
 ## BENODIGHEDEN
 
 > - oil 1 tbsp
@@ -29,3 +30,13 @@ Sause:
 > - butter as required
 
 ### BEREIDING
+1. Season the chicken cutlets with smoked paprika, chili powder, garlic granules, salt, and pepper.
+
+2. Heat oil in a pan, or a grill pan, or preheat your outdoor grill.
+
+3. Place the seasoned chicken cutlets on the grill or pan, and cook on both sides until the chicken is cooked through. The internal temperature of the center of the chicken must be at least 165°F (75°C).
+
+4. Remove the chicken from the grill, and allow it to rest on a plate for 5 minutes.
+5. Cut the chicken up, and assemble the wrap.
+
+6. To assemble, on a tortilla bread, layer lettuce leaves, followed by chicken, shredded cheese, and a drizzle of ranch dressing. Seal the tortilla and place the wrap on the grill (or lightly oiled grill pan). Cook for a minute or 2 on both sides, then remove and slice the wraps in halves and serve.
